@@ -5,9 +5,13 @@ Home: https://github.com/RemiTheWarrior/plasma-boundaries
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/plasmaboundaries-feedstock/blob/master/LICENSE.txt)
 
 Summary: Determine plasma flux functions for various plasma parameters and plasma configurations.
+
+Development: https://github.com/RemiTheWarrior/plasma-boundaries
+
+Documentation: https://plasma-boundaries.readthedocs.io/en/latest/
 
 'This code computes and plots analytical solutions of the Grad-Shafranov (GS) equation for studying plasma equilibrium,
 stability and transport in fusion reactors based on the work of A. Cerfon and J. Freidberg. Details on the method can be
