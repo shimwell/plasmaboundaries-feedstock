@@ -1,5 +1,5 @@
 {% set name = "plasmaboundaries" %}
-{% set version = "0.1.7" %}
+{% set version = "0.1.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 61ddf6ea6a6391b097da68841e137f94ed29e926c93d7b283a2f06f1f5069897
+  sha256: 21fd323aaba978fa17efaa0cecf89fdbdf10ef5bee78d2fe7d2212a32a9439d5
 
 build:
   number: 0
